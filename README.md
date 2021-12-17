@@ -1,4 +1,4 @@
-# :robot: Introdução a Machine Learning
+# :robot: Introdução a Machine Learning (Huawei)
 
 Curso introdutório em Machine Learning, uma parceria entre a Universidade Federal do Ceará e a Huawei.
 
@@ -12,13 +12,13 @@ Este é um curso preparatório de 16 horas-aula para para certificação HCIA-AI
 
 ## :heavy_check_mark: Ementa
 
-- Visão geral da inteligência artificial (2h) 
-- Noções básicas de programação em Python (2h) 
-- Conhecimentos essenciais de matemática e pré-conhecimento para Deep Learning (2h) 
-- Visão Geral da Aprendizagem de Máquina (2h) 
-- Visão geral de Aprendizagem Profunda (2h) 
-- Principais ambientes de desenvolvimento em Aprendizagem Profunda (1h) 
-- Framework de desenvolvimento Mindspore – Huawei (1h) 
-- Plataforma de computação em nuvem Atlas A.I. (2h) 
-- Huawei Open A.I. para dispositivos inteligentes (1h) 
+- Visão geral da inteligência artificial (2h)
+- Noções básicas de programação em Python (2h)
+- Conhecimentos essenciais de matemática e pré-conhecimento para Deep Learning (2h)
+- Visão Geral da Aprendizagem de Máquina (2h)
+- Visão geral de Aprendizagem Profunda (2h)
+- Principais ambientes de desenvolvimento em Aprendizagem Profunda (1h)
+- Framework de desenvolvimento Mindspore – Huawei (1h)
+- Plataforma de computação em nuvem Atlas A.I. (2h)
+- Huawei Open A.I. para dispositivos inteligentes (1h)
 - Visão geral da plataforma Huawei Cloud Enterprise Intelligence (1h)
